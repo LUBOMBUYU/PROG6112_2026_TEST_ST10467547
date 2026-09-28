@@ -8,7 +8,7 @@ package com.mycompany.question2;
  *
  * @author emeris
  */
-public cinterface iConsole {
+public interface IConsole {
     String getConsoleDeviceType();
     String getStoreName();
     int getTotalSales();
